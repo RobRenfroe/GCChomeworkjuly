@@ -1,2 +1,0 @@
-# GCChomeworkjuly
-Created with CodeSandbox
